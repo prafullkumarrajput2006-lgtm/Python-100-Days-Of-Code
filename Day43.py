@@ -1,0 +1,6 @@
+# Virtual Environment in Python... 
+
+
+
+
+# Perform all the Commands on powershell... 
